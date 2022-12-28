@@ -8,7 +8,6 @@ seaborn
 gunicorn
 httpx
 html5lib
-tvdatafeed
 pandas_ta
 stockstats
 vectorbt
