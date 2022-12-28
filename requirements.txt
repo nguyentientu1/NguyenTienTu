@@ -8,6 +8,3 @@ seaborn
 gunicorn
 httpx
 html5lib
-pandas_ta
-stockstats
-vectorbt
